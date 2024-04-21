@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://virtserver.swaggerhub.com/RRAMONA38/slimmomapp/1.0.0"
+      "url": "https://slimmom-backend-bl3n.onrender.com"
     }
   ],
   "apis": ["routes/api/*.js"],
